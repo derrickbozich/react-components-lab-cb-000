@@ -43,7 +43,7 @@ export class ButcherShop extends Component {
   // your code here
   render() {
     return (
-      <div class="butcher-shop">
+      <div className="butcher-shop">
       <p>Hello! We have the following products for sale today:</p>
       <ul>
         <li>Tenderloin</li>
