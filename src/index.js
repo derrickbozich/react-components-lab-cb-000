@@ -17,15 +17,25 @@ export class OlderCoaster extends Component {
       <div>Hello!</div>
     )
   }
-  
+
 }
 
 export class InFrontOfYou extends Component {
   // your code here
+  render() {
+    return (
+      <div>Hello!</div>
+    )
+  }
 }
 
 export class ButcherShop extends Component {
   // your code here
+  render() {
+    return (
+      <div>Hello!</div>
+    )
+  }
 }
 
 
